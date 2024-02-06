@@ -1,0 +1,11 @@
+.btn {
+display: inline-block;
+background-color: rgb(19, 243, 168);
+padding: 15px 25px;
+color: white;
+border-radius: 25px;
+}
+.btn:hover {
+color: rgb(19, 243, 168);
+background-color: white;
+}

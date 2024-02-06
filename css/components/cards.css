@@ -1,0 +1,19 @@
+.text-center {
+ text-align: center;
+}
+.flexbox {
+ display: flex;
+ justify-content: space-between;
+ margin-bottom: 30px;
+ flex-wrap: wrap;
+ text-align: center;
+}
+.card img {
+ width: 150px;
+}
+.card {
+ width: 250px;
+ height: 300px;
+ box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+ background-color: whitesmoke;
+}
